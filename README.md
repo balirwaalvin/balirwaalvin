@@ -24,18 +24,34 @@ I'm a passionate developer focused on building modern web & android applications
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### AI & Data Science
+![Google Gemini](https://img.shields.io/badge/-Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
@@ -82,6 +98,20 @@ I'm a passionate developer focused on building modern web & android applications
 
 ## 💼 Featured Projects
 
+### [NutriCan Mobile](https://github.com/balirwaalvin/NutriCan-Mobile)
+A compassionate mobile health application designed for cancer patients, providing personalized nutrition guidance and wellness support throughout their treatment journey.
+
+**Key Features:**
+- 🍽️ AI-powered personalized meal plans based on cancer type and stage
+- 🔍 Food safety checker to verify safe foods during treatment
+- 📊 Nutrient tracking with visual charts and insights
+- 💊 Symptom-based nutrition tips
+- 📝 Progress journal for wellness tracking
+
+**Tech Stack:** React, TypeScript, Vite, Google Gemini AI, Tailwind CSS, Recharts
+
+---
+
 ### [REACT--REPO](https://github.com/balirwaalvin/REACT--REPO)
 A comprehensive collection of React + TypeScript patterns, examples, and best practices. This repository serves as a learning resource for developers working with TypeScript in React applications.
 
@@ -90,6 +120,48 @@ A comprehensive collection of React + TypeScript patterns, examples, and best pr
 - 🎯 Advanced patterns for HOCs, hooks, and context
 - 🛠️ Real-world examples and use cases
 - 📚 Comprehensive documentation
+
+**Tech Stack:** React, TypeScript, Next.js
+
+---
+
+### [Python Programming](https://github.com/balirwaalvin/Python---Programming)
+An all-in-one guide for mastering Python programming, covering modules, Django framework, and comprehensive examples with practical walkthroughs.
+
+**Key Features:**
+- 🐍 Complete Python language coverage
+- 🌐 Django framework tutorials and examples
+- 📖 Module-based learning approach
+- 💡 Clear, practical examples
+
+**Tech Stack:** Python, Django, Jupyter Notebook
+
+---
+
+### [PharmaX - Online Pharmacy Portal](https://github.com/balirwaalvin/PharmaX)
+A comprehensive web-based pharmacy management system with separate interfaces for customers, managers, and administrators. Features secure role-based access control and complete inventory management.
+
+**Key Features:**
+- 🛒 Customer portal for browsing and ordering products
+- 📦 Manager dashboard for inventory management
+- 👥 Admin panel for system administration
+- 🔐 Secure authentication and role-based access control
+- 🐳 Docker containerization support
+
+**Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript, Docker
+
+---
+
+### [QR Attendance System](https://github.com/balirwaalvin/QR-Attendance-System)
+An innovative attendance tracking system using QR code technology for efficient and contactless attendance management.
+
+**Key Features:**
+- 📱 QR code-based attendance tracking
+- 📊 Attendance reports and analytics
+- 👨‍💼 User-friendly interface
+- ⚡ Real-time attendance updates
+
+**Tech Stack:** JavaScript, HTML, CSS
 
 ---
 
