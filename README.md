@@ -1,4 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 <div align="center">
   <h1>👋 Balirwa Alvin Daniel</h1>
   <h3>Full-Stack Developer | React, Kotlin & Python Enthusiast</h3>
@@ -17,14 +16,13 @@ I'm a passionate developer focused on building modern web & android applications
 - 🔭 I'm currently working on **React and Python projects**
 - 🌱 I'm continuously learning **Object Oriented Programming under Python & Kotlin**
 - 💡 I enjoy creating educational content and documentation
-- 🎯 Goal: Contributing to open-source projects and helping developers learn Python, React, Kotlin e.t.c.
+- 🎯 Goal: Contributing to open-source projects and helping developers learn Python, React, Kotlin etc.
 - ⚡ Fun fact: I believe in learning by doing and sharing!
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
 ### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -55,7 +53,6 @@ I'm a passionate developer focused on building modern web & android applications
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
-
 
 ## 💼 Featured Projects
 
@@ -120,10 +117,6 @@ An innovative attendance tracking system using QR code technology for efficient 
 - ⚡ Real-time attendance updates
 
 **Tech Stack:** JavaScript, HTML, CSS
-
----
-
-<p align="center">
 
 ---
 
