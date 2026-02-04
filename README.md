@@ -158,7 +158,8 @@ const balirwaalvin = {
 ## 💼 Featured Projects
 
 <details open>
-<summary><h3>🏥 NutriCan Mobile</h3></summary>
+<summary><b>🏥 NutriCan Mobile</b></summary>
+<br/>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/balirwaalvin/NutriCan-Mobile)
 
@@ -176,7 +177,8 @@ A compassionate mobile health application designed for cancer patients, providin
 </details>
 
 <details open>
-<summary><h3>⚛️ REACT--REPO</h3></summary>
+<summary><b>⚛️ REACT--REPO</b></summary>
+<br/>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/balirwaalvin/REACT--REPO)
 
@@ -192,8 +194,9 @@ A comprehensive collection of React + TypeScript patterns, examples, and best pr
 
 </details>
 
-<details open>
-<summary><h3>🐍 Python Programming</h3></summary>
+<details>
+<summary><b>🐍 Python Programming</b></summary>
+<br/>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/balirwaalvin/Python---Programming)
 
@@ -210,8 +213,9 @@ An all-in-one guide for mastering Python programming, covering modules, Django f
 
 </details>
 
-<details open>
-<summary><h3>💊 PharmaX - Online Pharmacy Portal</h3></summary>
+<details>
+<summary><b>💊 PharmaX - Online Pharmacy Portal</b></summary>
+<br/>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/balirwaalvin/PharmaX)
 
@@ -228,8 +232,9 @@ A comprehensive web-based pharmacy management system with separate interfaces fo
 
 </details>
 
-<details open>
-<summary><h3>📱 QR Attendance System</h3></summary>
+<details>
+<summary><b>📱 QR Attendance System</b></summary>
+<br/>
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/balirwaalvin/QR-Attendance-System)
 
