@@ -8,7 +8,7 @@
 
   <p>
     <a href="mailto:sanyukalvin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/balirwa-alvin-daniel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/balirwa-alvin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/balirwaalvin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <img src="https://komarev.com/ghpvc/?username=balirwaalvin&color=blueviolet&style=for-the-badge&label=Profile+Views" />
   </p>
@@ -234,7 +234,7 @@ currently:   Building AI-powered health & pharmacy platforms
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/balirwa-alvin-daniel">
+  <a href="https://linkedin.com/in/balirwa-alvin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
