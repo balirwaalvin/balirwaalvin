@@ -1,152 +1,207 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 <div align="center">
-  <h1>👋 Balirwa Alvin Daniel</h1>
-  <h3>Full-Stack Developer | React, Kotlin & Python Enthusiast</h3>
+
+# Balirwa Alvin Daniel
+
+### Full-Stack Developer · React · Kotlin · Python · TypeScript
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=640&lines=Full-Stack+Web+%26+Mobile+Developer;React+%7C+TypeScript+%7C+Next.js+Expert;Android+Developer+%7C+Kotlin;Python+%7C+Django+%7C+AI+Integration;Open-Source+Contributor+%F0%9F%87%BA%F0%9F%87%AC+Uganda)](https://git.io/typing-svg)
+
+[![GitHub followers](https://img.shields.io/github/followers/balirwaalvin?label=Followers&style=social)](https://github.com/balirwaalvin)
+[![Profile Views](https://komarev.com/ghpvc/?username=balirwaalvin&color=2E9EF7&style=flat-square&label=Profile+Views)](https://github.com/balirwaalvin)
+[![GitHub Stars](https://img.shields.io/github/stars/balirwaalvin?style=social)](https://github.com/balirwaalvin)
+
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;React+%26+Python+Expert;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
+---
+
+## 🇺🇬 Uganda GitHub Rankings
+
+<div align="center">
+
+[![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=balirwaalvin&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/HwangTaehyun/github-contributor-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=balirwaalvin&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+> 🏆 Ranked among the **Top Open-Source Contributors in Uganda 🇺🇬** on GitHub
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer focused on building modern web & android applications with React, TypeScript, Kotlin, Python and Next.js. I love creating clean, efficient code and sharing knowledge with the developer community.
+I am a passionate and results-driven **Full-Stack Developer** based in Uganda 🇺🇬, specialising in building high-performance web and mobile applications. With hands-on experience in React, TypeScript, Kotlin, Python, and Next.js, I thrive on writing clean, maintainable code and architecting scalable solutions.
 
-- 🔭 I'm currently working on **React and Python projects**
-- 🌱 I'm continuously learning **Object Oriented Programming under Python & Kotlin**
-- 💡 I enjoy creating educational content and documentation
-- 🎯 Goal: Contributing to open-source projects and helping developers learn Python, React, Kotlin e.t.c.
-- ⚡ Fun fact: I believe in learning by doing and sharing!
+- 🔭 Currently building **React and Python projects** — web apps and AI-powered tools
+- 🌱 Deep-diving into **Object-Oriented Programming with Python & Kotlin**
+- 🤝 Open to **collaborating** on interesting open-source projects
+- 💡 Passionate about **educational content**, documentation, and knowledge sharing
+- 🎯 Mission: Help developers across Africa grow by contributing practical learning resources
+- ⚡ Motto: *"Learn by building. Grow by sharing."*
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=balirwaalvin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balirwaalvin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=balirwaalvin&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=balirwaalvin&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
-### Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### ⚙️ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### 🧰 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### AI & Data Science
-![Google Gemini](https://img.shields.io/badge/-Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+### 🤖 AI & Data Science
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
-
 
 ## 💼 Featured Projects
 
-### [NutriCan Mobile](https://github.com/balirwaalvin/NutriCan-Mobile)
-A compassionate mobile health application designed for cancer patients, providing personalized nutrition guidance and wellness support throughout their treatment journey.
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-**Key Features:**
-- 🍽️ AI-powered personalized meal plans based on cancer type and stage
-- 🔍 Food safety checker to verify safe foods during treatment
-- 📊 Nutrient tracking with visual charts and insights
+### 🏥 [NutriCan Mobile](https://github.com/balirwaalvin/NutriCan-Mobile)
+A compassionate mobile health application for cancer patients, delivering AI-powered personalised nutrition guidance throughout their treatment journey.
+
+**Highlights:**
+- 🍽️ AI meal plans tailored to cancer type & stage
+- 🔍 Food safety checker for treatment-safe foods
+- 📊 Nutrient tracking with visual charts
 - 💊 Symptom-based nutrition tips
-- 📝 Progress journal for wellness tracking
+- 📝 Wellness progress journal
 
-**Tech Stack:** React, TypeScript, Vite, Google Gemini AI, Tailwind CSS, Recharts
+`React` `TypeScript` `Vite` `Gemini AI` `TailwindCSS`
 
----
+</td>
+    <td width="50%" valign="top">
 
-### [REACT--REPO](https://github.com/balirwaalvin/REACT--REPO)
-A comprehensive collection of React + TypeScript patterns, examples, and best practices. This repository serves as a learning resource for developers working with TypeScript in React applications.
+### 💊 [PharmaX](https://github.com/balirwaalvin/PharmaX)
+A full-featured web pharmacy management system with distinct portals for customers, managers, and administrators — containerised with Docker.
 
-- 🛠️ Real-world examples and use cases
+**Highlights:**
+- 🛒 Customer portal with browse & order flow
+- 📦 Manager inventory dashboard
+- 👥 Admin system panel
+- 🔐 Role-based access control
+- 🐳 Docker containerisation
+
+`PHP` `MySQL` `HTML5` `CSS3` `JavaScript` `Docker`
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### ⚛️ [REACT--REPO](https://github.com/balirwaalvin/REACT--REPO)
+A curated collection of React + TypeScript patterns, real-world examples, and best practices — a go-to learning resource for React developers.
+
+**Highlights:**
+- 🛠️ Real-world component patterns
 - 📚 Comprehensive documentation
+- ✅ TypeScript-first approach
 
-**Tech Stack:** React, TypeScript, Next.js
+`React` `TypeScript` `Next.js`
 
----
+</td>
+    <td width="50%" valign="top">
 
-### [Python Programming](https://github.com/balirwaalvin/Python---Programming)
-An all-in-one guide for mastering Python programming, covering modules, Django framework, and comprehensive examples with practical walkthroughs.
+### 🐍 [Python Programming](https://github.com/balirwaalvin/Python---Programming)
+An all-in-one guide to mastering Python — from core language fundamentals to Django framework and data science with Jupyter Notebooks.
 
-**Key Features:**
-- 🐍 Complete Python language coverage
-- 🌐 Django framework tutorials and examples
-- 📖 Module-based learning approach
-- 💡 Clear, practical examples
+**Highlights:**
+- 🐍 Full Python language coverage
+- 🌐 Django tutorials & examples
+- 📖 Module-based learning path
+- 💡 Practical, runnable examples
 
-**Tech Stack:** Python, Django, Jupyter Notebook
+`Python` `Django` `Jupyter Notebook`
 
----
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-### [PharmaX - Online Pharmacy Portal](https://github.com/balirwaalvin/PharmaX)
-A comprehensive web-based pharmacy management system with separate interfaces for customers, managers, and administrators. Features secure role-based access control and complete inventory management.
+### 📲 [QR Attendance System](https://github.com/balirwaalvin/QR-Attendance-System)
+An innovative contactless attendance tracking system powered by QR code technology, with real-time updates and analytics dashboards.
 
-**Key Features:**
-- 🛒 Customer portal for browsing and ordering products
-- 📦 Manager dashboard for inventory management
-- 👥 Admin panel for system administration
-- 🔐 Secure authentication and role-based access control
-- 🐳 Docker containerization support
-
-**Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript, Docker
-
----
-
-### [QR Attendance System](https://github.com/balirwaalvin/QR-Attendance-System)
-An innovative attendance tracking system using QR code technology for efficient and contactless attendance management.
-
-**Key Features:**
-- 📱 QR code-based attendance tracking
-- 📊 Attendance reports and analytics
-- 👨‍💼 User-friendly interface
+**Highlights:**
+- 📱 QR code-based check-in
+- 📊 Attendance reports & analytics
 - ⚡ Real-time attendance updates
 
-**Tech Stack:** JavaScript, HTML, CSS
+`JavaScript` `HTML` `CSS`
 
----
-
-<p align="center">
+</td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:sanyukalvin@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/balirwaalvin">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/balirwa-alvin-daniel">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanyukalvin@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balirwaalvin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balirwa-alvin-daniel)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=balirwaalvin&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+<div align="center">
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/balirwaalvin">balirwaalvin</a></i>
-</p>
+*"The best way to learn is to build. The best way to grow is to share."*
+
+⭐️ If you find my work helpful, consider giving a star to any of the repositories above!
+
+[![Profile Views](https://komarev.com/ghpvc/?username=balirwaalvin&color=2E9EF7&style=flat-square&label=Profile+Views)](https://github.com/balirwaalvin)
+
+*Made with ❤️ by [Balirwa Alvin Daniel](https://github.com/balirwaalvin) · Uganda 🇺🇬*
+
+</div>
