@@ -1,10 +1,12 @@
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Balirwa%20Alvin%20Daniel&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Uganda&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30&text=Balirwa%20Alvin%20Daniel&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Uganda&descAlignY=58&descSize=18" />
 
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+TypeScript+Expert+%E2%9A%A1;Python+%7C+Django+%7C+Kotlin+Developer+%F0%9F%90%8D;AI-Powered+Application+Builder+%F0%9F%A4%96;Open-Source+Contributor+from+Uganda+%F0%9F%87%BA%F0%9F%87%AC" alt="Typing SVG" />
   </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=Designing+future-ready+web+%26+mobile+systems;Building+AI-powered+products+for+real-world+impact;Shipping+clean+code%2C+great+UX%2C+and+scalable+platforms" alt="Typing intro"/>
 
   <p>
     <a href="mailto:sanyukalvin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -12,6 +14,12 @@
     <a href="https://github.com/balirwaalvin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <img src="https://komarev.com/ghpvc/?username=balirwaalvin&color=blueviolet&style=for-the-badge&label=Profile+Views" />
   </p>
+<br/>
+
+<a href="mailto:sanyukalvin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/balirwa-alvin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/balirwaalvin"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=balirwaalvin&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -24,6 +32,7 @@
 I am a results-driven **Full-Stack Developer** based in **Uganda 🇺🇬**, with hands-on experience building modern web and mobile applications using **React**, **Next.js**, **TypeScript**, **Python**, **Django**, and **Kotlin**. I specialise in crafting intuitive user experiences backed by robust, maintainable architectures.
 
 I am passionate about open-source contributions, mentoring upcoming developers, and leveraging cutting-edge AI tools to solve real-world problems across healthcare, education, and commerce.
+## ⚡ Tech Identity Matrix
 
 ```yaml
 name:        Balirwa Alvin Daniel
@@ -32,11 +41,25 @@ role:        Full-Stack Developer
 focus:       Web & Mobile Applications · AI Integration · Open Source
 languages:   TypeScript · JavaScript · Python · Kotlin · PHP
 currently:   Building AI-powered health & pharmacy platforms
+name: Balirwa Alvin Daniel
+based_in: Uganda 🇺🇬
+role: Full-Stack Developer
+core_stack:
+  - TypeScript
+  - React / Next.js
+  - Python / Django
+  - Kotlin
+focus_areas:
+  - AI-integrated applications
+  - Modern web platforms
+  - Mobile-first product experiences
+current_mission: Building practical systems in health, education, and commerce
 ```
 
 ---
 
 ## 🏆 Uganda GitHub Contributor Ranking
+## 🛰️ Live Dev Pulse
 
 <div align="center">
 
@@ -49,6 +72,8 @@ currently:   Building AI-powered health & pharmacy platforms
   <br/>
   <sub>📊 Ranked among the <strong>Top GitHub Contributors from Uganda</strong> · <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/uganda.md">gayanvoice/top-github-users</a></sub>
 
+  <img src="https://github-readme-stats.vercel.app/api?username=balirwaalvin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balirwaalvin&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 ---
@@ -60,17 +85,24 @@ currently:   Building AI-powered health & pharmacy platforms
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balirwaalvin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balirwaalvin&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
+  <img src="https://streak-stats.demolab.com?user=balirwaalvin&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=balirwaalvin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balirwaalvin&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
+
+---
+
+## 🧠 Tech Arsenal
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=balirwaalvin&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,django,kotlin,php,mysql,docker,git,github,vscode,tailwind,vite&perline=8"/>
 
 ## 🛠️ Tech Stack
 
@@ -110,10 +142,12 @@ currently:   Building AI-powered health & pharmacy platforms
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
+</div>
 
 ---
 
 ## 💼 Featured Projects
+## 🚀 Current & Active Repositories
 
 <table>
   <tr>
@@ -151,6 +185,19 @@ currently:   Building AI-powered health & pharmacy platforms
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </td>
+    <th align="left">Repository</th>
+    <th align="left">Primary Tech</th>
+    <th align="left">Last Update</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/balirwaalvin/TREEZ-AFRICA-Systems">TREEZ-AFRICA-Systems</a></td>
+    <td>HTML</td>
+    <td>2026-08-25</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/balirwaalvin/academic-monitoring-system">academic-monitoring-system</a></td>
+    <td>TypeScript</td>
+    <td>2026-08-19</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -183,6 +230,9 @@ currently:   Building AI-powered health & pharmacy platforms
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
       </p>
     </td>
+    <td><a href="https://github.com/balirwaalvin/NutriCan-Mobile">NutriCan-Mobile</a></td>
+    <td>TypeScript</td>
+    <td>2026-07-10</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -209,26 +259,49 @@ currently:   Building AI-powered health & pharmacy platforms
         </a>
       </p>
     </td>
+    <td><a href="https://github.com/balirwaalvin/EduPay-System">EduPay-System</a></td>
+    <td>JavaScript</td>
+    <td>2026-04-20</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/balirwaalvin/EduScan-Intelligence">EduScan-Intelligence</a></td>
+    <td>TypeScript</td>
+    <td>2026-04-13</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/balirwaalvin/larsh-scents">larsh-scents</a></td>
+    <td>TypeScript</td>
+    <td>2026-04-13</td>
   </tr>
 </table>
 
 ---
 
 ## 📈 Contribution Activity
+## 🌍 Open Source Presence
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=balirwaalvin&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+[![GitHub Contributor Stats](https://github-contributor-stats.vercel.app/api?username=balirwaalvin&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/uganda.md)
+
+<a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/total_contributions/uganda.md">
+  <img src="https://img.shields.io/badge/🇺🇬%20Top%20Contributor%20Ranking-Uganda-22D3EE?style=for-the-badge"/>
+</a>
+
 </div>
 
 ---
 
 ## 📫 Let's Connect
+## 🤝 Let's Build the Future
 
 <div align="center">
 
   I'm always open to collaborating on exciting projects, discussing new ideas, or helping fellow developers. Feel free to reach out!
 
   <br/><br/>
+I’m open to collaborations on **AI products**, **full-stack platforms**, and **impact-driven technology**.
 
   <a href="mailto:sanyukalvin@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -241,6 +314,7 @@ currently:   Building AI-powered health & pharmacy platforms
   <a href="https://github.com/balirwaalvin">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+<a href="mailto:sanyukalvin@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20Conversation-Contact%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -250,4 +324,5 @@ currently:   Building AI-powered health & pharmacy platforms
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
   <br/>
   <sub>⭐️ From <a href="https://github.com/balirwaalvin">balirwaalvin</a> · Built with ❤️ in Uganda 🇺🇬</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
 </div>
