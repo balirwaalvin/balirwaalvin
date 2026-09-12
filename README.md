@@ -1,166 +1,153 @@
 <div align="center">
 
-<!-- Terminal-style animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=3&section=header"/>
-
 <pre>
-┌─[balirwaalvin@github]─[~]
-└──╼ $ ./welcome.sh
+┌──(balirwaalvin㉿github)-[~]
+└─$ ./init.sh --profile --verbose
 </pre>
 
-<!-- Typing animation -->
-<a href="https://github.com/balirwaalvin">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+whoami;Balirwa+Alvin+Daniel+%E2%80%94+Full-Stack+Developer;%3E+cat+focus.txt+%7C+grep+-i+%22AI+%2B+web+%2B+mobile%22;Building+practical+systems+in+health%2C+edu+%26+commerce" alt="Typing SVG" />
+<a href="https://www.balirwalvin.me">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=700&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=95&lines=%3E+whoami;Balirwa+Alvin+Daniel+%E2%80%94+Full-Stack+Engineer;%3E+cat+~%2F.focus;Offline-first+systems+%C2%B7+USSD%2FSMS+%C2%B7+AI-assisted+tooling" alt="whoami" />
 </a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=3&section=header"/>
-
-</div>
 
 <br/>
 
-## `$ cat about.txt`
+<img src="https://img.shields.io/badge/Kampala-UG-0D1117?style=flat-square&logo=googlemaps&logoColor=39FF14&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/UTC-%2B03%3A00-0D1117?style=flat-square&logo=clockify&logoColor=39FF14&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/balirwaalvin?style=flat-square&logo=github&logoColor=39FF14&label=followers&labelColor=0D1117&color=161B22" />
+<img src="https://komarev.com/ghpvc/?username=balirwaalvin&label=sessions&style=flat-square&color=161B22&labelColor=0D1117" />
 
-```yaml
-name:        Balirwa Alvin Daniel
-role:        Full-Stack Developer
-location:    Uganda 🇺🇬
-company:     Treez Africa Holdings
-currently:   Building AI-powered health, education & commerce platforms
-stack:       TypeScript · JavaScript · Python · Kotlin · PHP
-fun_fact:    Turns coffee into commits ☕ → 💻
-reach_me:    see contact block at EOF
+</div>
+
+---
+
+## `$ whoami --verbose`
+
+```console
+user          balirwaalvin
+name          Balirwa Alvin Daniel
+role          Full-Stack Engineer
+org           Treez Africa Holdings
+education     BSc. Information Technology — final year, Uganda Christian University
+locale        Kampala, UG · UTC+03:00
+
+focus         offline-first architecture, USSD/SMS channels, AI-assisted tooling
+building      offline-first antenatal & postnatal follow-up system
+sub_systems   USSD registration + scheduled SMS + sync-on-reconnect dashboard
+interests     constrained-environment software — feature phones, low bandwidth,
+constraints   intermittent power, and the sync problems that follow from them
+open_to       collaboration · internships · freelance
 ```
 
-<br/>
+---
 
-## `$ ls -la ./tech-stack/`
+## `$ cat /etc/stack`
 
-<div align="center">
+| layer | technologies |
+| :--- | :--- |
+| **languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB) ![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=flat-square&logo=kotlin&logoColor=7F52FF) ![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4) ![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1) |
+| **frontend** | ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF) ![Vite](https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF) ![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D1117?style=flat-square&logo=framer&logoColor=0055FF) |
+| **backend** | ![Django](https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=44B78B) ![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=FFFFFF) ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=5FA04E) ![REST](https://img.shields.io/badge/REST-0D1117?style=flat-square&logo=fastapi&logoColor=009688) |
+| **data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1) ![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=003B57) ![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=flat-square&logo=prisma&logoColor=2D3748) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=D71F00) ![Appwrite](https://img.shields.io/badge/Appwrite-0D1117?style=flat-square&logo=appwrite&logoColor=FD366E) |
+| **infra / tooling** | ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032) ![GitHub Actions](https://img.shields.io/badge/Actions-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF) ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED) ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF) ![Linux](https://img.shields.io/badge/Ubuntu-0D1117?style=flat-square&logo=ubuntu&logoColor=E95420) |
+| **ai** | ![Claude API](https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&logo=anthropic&logoColor=D4A27F) ![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=8E75FF) ![Groq](https://img.shields.io/badge/Groq-0D1117?style=flat-square&logo=lightning&logoColor=F55036) |
 
-**Languages**
+---
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4)
+## `$ ls -la ~/repos --sort=relevance`
 
-**Frameworks & UI**
+#### `01` → [**TREEZ-AFRICA-Systems**](https://github.com/balirwaalvin/TREEZ-AFRICA-Systems)
+Multi-page company site for a Treez Africa Holdings subsidiary. Built with **zero frameworks** — vanilla HTML5/CSS3/ES6+ — with a Canvas particle-network hero and an Appwrite-backed admin workspace.
 
-![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django&logoColor=092E20)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=0055FF)
+[![lang](https://img.shields.io/github/languages/top/balirwaalvin/TREEZ-AFRICA-Systems?style=flat-square&label=lang&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/TREEZ-AFRICA-Systems)
+[![size](https://img.shields.io/github/languages/code-size/balirwaalvin/TREEZ-AFRICA-Systems?style=flat-square&label=size&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/TREEZ-AFRICA-Systems)
+[![last commit](https://img.shields.io/github/last-commit/balirwaalvin/TREEZ-AFRICA-Systems?style=flat-square&logo=git&logoColor=39FF14&label=last%20commit&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/TREEZ-AFRICA-Systems/commits)
 
-**Data & Backend-as-a-Service**
+#### `02` → [**academic-monitoring-system**](https://github.com/balirwaalvin/academic-monitoring-system)
+Role-based student wellbeing & academic platform (SWAM-MIS). Grades, attendance, fees, wellbeing reports and early-warning insights across five distinct permission tiers: admin, teacher, counselor, parent, student.
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Prisma](https://img.shields.io/badge/-Prisma-000000?style=for-the-badge&logo=prisma&logoColor=2D3748)
-![Appwrite](https://img.shields.io/badge/-Appwrite-000000?style=for-the-badge&logo=appwrite&logoColor=FD366E)
-![Vite](https://img.shields.io/badge/-Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF)
+[![lang](https://img.shields.io/github/languages/top/balirwaalvin/academic-monitoring-system?style=flat-square&label=lang&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/academic-monitoring-system)
+[![size](https://img.shields.io/github/languages/code-size/balirwaalvin/academic-monitoring-system?style=flat-square&label=size&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/academic-monitoring-system)
+[![last commit](https://img.shields.io/github/last-commit/balirwaalvin/academic-monitoring-system?style=flat-square&logo=git&logoColor=39FF14&label=last%20commit&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/academic-monitoring-system/commits)
 
-**AI & Tools**
+#### `03` → [**NutriCan-Mobile**](https://github.com/balirwaalvin/NutriCan-Mobile)
+AI wellness companion for cervical cancer patients. Gemini/Groq-generated 7-day meal plans, a food-safety checker, nutrient tracking, health journal and specialist-style chat — with clinical guardrails on generated output.
 
-![Anthropic](https://img.shields.io/badge/-Claude_API-000000?style=for-the-badge&logo=anthropic&logoColor=D4A27F)
-![Google Gemini](https://img.shields.io/badge/-Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=8E75FF)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[![lang](https://img.shields.io/github/languages/top/balirwaalvin/NutriCan-Mobile?style=flat-square&label=lang&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/NutriCan-Mobile)
+[![size](https://img.shields.io/github/languages/code-size/balirwaalvin/NutriCan-Mobile?style=flat-square&label=size&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/NutriCan-Mobile)
+[![last commit](https://img.shields.io/github/last-commit/balirwaalvin/NutriCan-Mobile?style=flat-square&logo=git&logoColor=39FF14&label=last%20commit&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/NutriCan-Mobile/commits)
 
-</div>
+#### `04` → [**EduScan-Intelligence**](https://github.com/balirwaalvin/EduScan-Intelligence)
+Triple-mode attendance capture — QR, RFID and facial recognition — behind a single reconciliation layer, with separate admin, teacher and class-rep dashboards.
 
-<br/>
+[![lang](https://img.shields.io/github/languages/top/balirwaalvin/EduScan-Intelligence?style=flat-square&label=lang&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/EduScan-Intelligence)
+[![size](https://img.shields.io/github/languages/code-size/balirwaalvin/EduScan-Intelligence?style=flat-square&label=size&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/EduScan-Intelligence)
+[![last commit](https://img.shields.io/github/last-commit/balirwaalvin/EduScan-Intelligence?style=flat-square&logo=git&logoColor=39FF14&label=last%20commit&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/EduScan-Intelligence/commits)
 
-## `$ ./run_stats.sh --verbose`
+#### `05` → [**smart-business-assistant**](https://github.com/balirwaalvin/smart-business-assistant)
+Natural-language bookkeeping for SMEs. Parses plain sentences — *"Sold 3 sodas to Grace on credit"* — into structured ledger entries via the Claude API, surfacing live revenue, profit, credit and inventory.
 
-<div align="center">
+[![lang](https://img.shields.io/github/languages/top/balirwaalvin/smart-business-assistant?style=flat-square&label=lang&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/smart-business-assistant)
+[![size](https://img.shields.io/github/languages/code-size/balirwaalvin/smart-business-assistant?style=flat-square&label=size&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/smart-business-assistant)
+[![last commit](https://img.shields.io/github/last-commit/balirwaalvin/smart-business-assistant?style=flat-square&logo=git&logoColor=39FF14&label=last%20commit&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/smart-business-assistant/commits)
 
-<img src="https://github-readme-stats.vercel.app/api?username=balirwaalvin&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balirwaalvin&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" width="30%"/>
+#### `06` → [**bloodford-fashion-brand**](https://github.com/balirwaalvin/bloodford-fashion-brand)
+Full e-commerce stack on Flask + SQLAlchemy — catalogue, cart, wishlist, order tracking, reviews and an admin dashboard for men's, women's and unisex lines.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=balirwaalvin&theme=dark&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="65%"/>
+[![lang](https://img.shields.io/github/languages/top/balirwaalvin/bloodford-fashion-brand?style=flat-square&label=lang&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/bloodford-fashion-brand)
+[![size](https://img.shields.io/github/languages/code-size/balirwaalvin/bloodford-fashion-brand?style=flat-square&label=size&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/bloodford-fashion-brand)
+[![last commit](https://img.shields.io/github/last-commit/balirwaalvin/bloodford-fashion-brand?style=flat-square&logo=git&logoColor=39FF14&label=last%20commit&labelColor=0D1117&color=161B22)](https://github.com/balirwaalvin/bloodford-fashion-brand/commits)
 
-</div>
+---
 
-<br/>
-
-## `$ git log --graph --oneline --all`
-
-<div align="center">
-
-<!-- Contribution snake — needs snake.yml running in balirwaalvin/balirwaalvin, see note below the fold -->
-<img src="https://raw.githubusercontent.com/balirwaalvin/balirwaalvin/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<br/>
-
-## `$ ls -la ./projects/ | grep featured`
+## `$ git log --graph --all --since="1 year ago"`
 
 <div align="center">
 
-<!-- TREEZ AFRICA SYSTEMS -->
-<p><b>🌳 TREEZ AFRICA SYSTEMS</b> — animated multi-page company site for TREEZ AFRICA SYSTEMS (a Treez Africa Holdings subsidiary). Zero frameworks: vanilla HTML5/CSS3/ES6+, a Canvas particle-network hero, and an Appwrite-backed admin workspace.</p>
-<a href="https://github.com/balirwaalvin/TREEZ-AFRICA-Systems">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=balirwaalvin&repo=TREEZ-AFRICA-Systems&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14" width="47%"/>
-</a>
-
-<!-- ACADEMIC MONITORING SYSTEM -->
-<p><b>🎓 Academic Monitoring System (SWAM-MIS)</b> — a role-based student well-being & academic platform: grades, attendance, fees, wellbeing reports and early-warning insights for admins, teachers, counselors, parents and students.</p>
-<a href="https://github.com/balirwaalvin/academic-monitoring-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=balirwaalvin&repo=academic-monitoring-system&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14" width="47%"/>
-</a>
-
-<!-- NUTRICAN MOBILE -->
-<p><b>🩺 NutriCan Mobile</b> — an AI wellness companion for cervical cancer patients: Gemini/Groq-powered 7-day meal plans, a food safety checker, nutrient tracking, a health journal, and specialist-style AI doctor chat.</p>
-<a href="https://github.com/balirwaalvin/NutriCan-Mobile">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=balirwaalvin&repo=NutriCan-Mobile&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14" width="47%"/>
-</a>
-
-<!-- EDUSCAN INTELLIGENCE -->
-<p><b>📡 EduScan Intelligence</b> — a triple-mode attendance system combining QR codes, RFID and facial recognition, with dedicated admin, teacher and class-rep dashboards.</p>
-<a href="https://github.com/balirwaalvin/EduScan-Intelligence">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=balirwaalvin&repo=EduScan-Intelligence&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14" width="47%"/>
-</a>
-
-<!-- SMART BUSINESS ASSISTANT -->
-<p><b>🧾 Smart Business Assistant</b> — turns plain-language transactions like "Sold 3 sodas to Grace on credit" into a live SME finance dashboard (revenue, profit, credit, inventory), parsed with the Claude API.</p>
-<a href="https://github.com/balirwaalvin/smart-business-assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=balirwaalvin&repo=smart-business-assistant&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14" width="47%"/>
-</a>
-
-<!-- BLOODFORD FASHION BRAND -->
-<p><b>🛍️ BloodFord Fashion Brand</b> — a full e-commerce fashion site for original men's, women's & unisex designs: cart, wishlist, order tracking, reviews and an admin dashboard, built on Flask with SQLAlchemy.</p>
-<a href="https://github.com/balirwaalvin/bloodford-fashion-brand">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=balirwaalvin&repo=bloodford-fashion-brand&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14" width="47%"/>
-</a>
+<img src="https://raw.githubusercontent.com/balirwaalvin/balirwaalvin/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution graph"/>
 
 </div>
 
-<br/>
+<!--
+STATS CARDS — deliberately omitted.
+github-readme-stats.vercel.app is paused by its maintainer (503 DEPLOYMENT_PAUSED),
+so every card served from it renders as a broken image.
 
-## `$ finger balirwaalvin`
+To restore them, deploy your own instance:
+1. Fork github.com/anuraghazra/github-readme-stats
+2. Import the fork into Vercel, add env var PAT_1 = a GitHub PAT (no scopes needed)
+3. Replace the host below with your own *.vercel.app domain and uncomment.
+
+<div align="center">
+<img src="https://YOUR-INSTANCE.vercel.app/api?username=balirwaalvin&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9" width="49%"/>
+<img src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=balirwaalvin&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" width="38%"/>
+</div>
+-->
+
+---
+
+## `$ netstat -an | grep LISTEN`
+
+```console
+PROTO   LOCAL ADDRESS          STATE
+tcp     linkedin:in            LISTEN
+tcp     x:badd_ug              LISTEN
+tcp     balirwalvin.me:443     LISTEN
+smtp    sanyukalvin@gmail      LISTEN
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/balirwa-alvin)
+[![X](https://img.shields.io/badge/X-0D1117?style=flat-square&logo=x&logoColor=FFFFFF)](https://x.com/badd_ug)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=FFFFFF)](https://www.balirwalvin.me)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:sanyukalvin@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=39FF14)](https://github.com/balirwaalvin)
+
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/balirwaalvin)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/balirwa-alvin)
-[![X](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/badd_ug)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.balirwalvin.me)
-[![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:sanyukalvin@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=balirwaalvin&label=TERMINAL+SESSIONS&color=0D1117&style=for-the-badge&labelColor=39FF14)
-
-</div>
-
-<pre align="center">
-└──╼ $ exit
+<pre>
+└─$ exit
 Connection to github.com closed.
 </pre>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=3&section=footer"/>
+</div>
